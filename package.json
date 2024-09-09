@@ -56,5 +56,5 @@
     "@types/react-helmet": "^6.1.11",
     "@types/styled-components": "^5.1.34"
   },
-  "homepage": "https://heejun.github.io/study.nomad.reactjs-masterclass"
+  "homepage": "https://heejun.github.io/nomad-assignment-todolist"
 }
